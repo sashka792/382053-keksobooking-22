@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг»
 
 * Студент: [Oleksandr Shyian](https://up.htmlacademy.ru/javascript/22/user/382053).
-* Наставник: `Неизвестно`.
+* Наставник: [Юрий Белобородов](https://htmlacademy.ru/profile/id514591).
 
 ---
 
