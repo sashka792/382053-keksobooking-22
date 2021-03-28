@@ -16,6 +16,7 @@ function getRandomIntInclusive (min, max) {
 }
 console.log(getRandomIntInclusive(0, 8))
 console.log('7 module')
+console.log('8 module')
 
 // Пример взят с Mozilla MDN Web Docs
 // https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Math/random
