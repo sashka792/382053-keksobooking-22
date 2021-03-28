@@ -18,4 +18,3 @@ console.log(getRandomIntInclusive(0, 8))
 
 // Пример взят с Mozilla MDN Web Docs
 // https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Math/random
-
