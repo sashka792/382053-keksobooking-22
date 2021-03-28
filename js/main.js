@@ -15,7 +15,7 @@ function getRandomIntInclusive (min, max) {
   return Math.abs(randomNum)
 }
 console.log(getRandomIntInclusive(0, 8))
-console.log('6 module')
+console.log('5 module task 2')
 
 // Пример взят с Mozilla MDN Web Docs
 // https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Math/random
